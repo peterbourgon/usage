@@ -1,4 +1,4 @@
-# usage
+# usage [![builds.sr.ht status](https://builds.sr.ht/~peterbourgon/usage.svg)](https://builds.sr.ht/~peterbourgon/usage?)
 
 Nicer help text for Go programs.
 
